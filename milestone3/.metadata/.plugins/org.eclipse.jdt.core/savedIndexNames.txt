@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+D:\GIU\Year3\Semster6\Game\TitansOnAttack\milestone3\milestone3\.metadata\.plugins\org.eclipse.jdt.core
+3297908203.index
+3437612508.index
+75931715.index
+1865797976.index
+3977711058.index
+1522520995.index

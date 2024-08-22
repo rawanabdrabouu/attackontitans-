@@ -1,0 +1,45 @@
+/* WeaponShop.css */
+.root {
+    -fx-background-color: transparent; /* Ensure the background of the root pane is transparent */
+}
+
+.button {
+    -fx-background-color: #444;
+    -fx-text-fill: white;
+    -fx-border-radius: 5.0;
+    -fx-background-radius: 5.0;
+}
+
+.button:hover {
+    -fx-background-color: #666;
+}
+
+.combo-box {
+    -fx-background-color: #333;
+    -fx-text-fill: white;
+    -fx-border-color: #555;
+}
+
+.combo-box .list-cell {
+    -fx-background-color: #333;
+    -fx-text-fill: white;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #555;
+}
+
+.label {
+    -fx-text-fill: white;
+    -fx-font-size: 14.0px;
+}
+
+#resourcesLabel {
+    -fx-text-fill: yellow;
+    -fx-font-size: 16.0px;
+}
+
+#backButton {
+    -fx-background-color: #555;
+    -fx-text-fill: white; /* Or any other color you prefer */
+}
